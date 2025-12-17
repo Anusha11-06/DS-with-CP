@@ -1,6 +1,6 @@
 class StaticIntialization {
     public static void main(String[] args) {
-
+        // D& I together
         int[] numbers = {2, 5, 7, 8};
         String[] names = {"anu", "sushmi", "pinky"};
 
