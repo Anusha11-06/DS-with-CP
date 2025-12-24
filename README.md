@@ -14,7 +14,7 @@ output of class_basic.java
 output of class_constructor.java
 <img width="794" height="401" alt="Screenshot 2025-12-22 123922" src="https://github.com/user-attachments/assets/d158cb98-7c7b-4c93-8525-3e4fa0b71848" /> 
 
-output of operations.java
+# output of operations.java
 
 ![WhatsApp Image 2025-12-24 at 16 06 45_b10766c0](https://github.com/user-attachments/assets/3a058e99-3822-414f-9099-e60e6a542d53)
 
