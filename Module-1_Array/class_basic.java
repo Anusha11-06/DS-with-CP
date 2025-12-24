@@ -9,14 +9,17 @@ class Student {
     void getAge() {
         System.out.println(age);
     }
+}
 
+class Main {
     public static void main(String[] args) {
         Student a = new Student();
-        a.name = "Anu";
+        a.name = "pallavi";
         a.age = 19;
 
         System.out.println(a.name);
         System.out.println(a.age);
+
         a.getName();
         a.getAge();
     }
