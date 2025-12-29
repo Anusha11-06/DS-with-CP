@@ -20,4 +20,5 @@ output of class_constructor.java
 
 <img width="1071" height="703" alt="Screenshot 2025-12-27 152415" src="https://github.com/user-attachments/assets/a0743987-bdbf-4c7b-a040-a704c6498734" />
 
+<img width="1015" height="798" alt="Screenshot 2025-12-29 101336" src="https://github.com/user-attachments/assets/44207a5d-b3da-4021-9a30-e145df3b3a88" />
 
