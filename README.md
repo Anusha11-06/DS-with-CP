@@ -22,3 +22,5 @@ output of class_constructor.java
 
 <img width="1015" height="798" alt="Screenshot 2025-12-29 101336" src="https://github.com/user-attachments/assets/44207a5d-b3da-4021-9a30-e145df3b3a88" />
 
+<img width="712" height="588" alt="Screenshot 2026-01-09 145523" src="https://github.com/user-attachments/assets/81accd90-0ce4-45f9-8665-ce52b990417f" />
+
