@@ -28,6 +28,7 @@ output of class_constructor.java
 <img width="291" height="862" alt="image" src="https://github.com/user-attachments/assets/53cba2fc-41d4-404f-8548-16d867b74423" />
 
 <img width="898" height="420" alt="Screenshot 2026-01-30 142208" src="https://github.com/user-attachments/assets/8518c583-4bec-43b0-9a3d-8752626f158d" />
+<img width="691" height="602" alt="Screenshot 2026-01-30 142519" src="https://github.com/user-attachments/assets/499a4675-69b5-4262-b043-4d3d043cd0ba" />
 
 
 
