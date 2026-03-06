@@ -33,7 +33,9 @@ output of class_constructor.java
 op of task15.java
 
 <img width="1186" height="600" alt="Screenshot 2026-02-25 161540 - Copy" src="https://github.com/user-attachments/assets/fe81d189-46a3-49aa-9ae5-20f68bb8a99f" />
+op of task16.avl.java
 
+<img width="1020" height="800" alt="Screenshot 2026-03-06 142151" src="https://github.com/user-attachments/assets/01aa85db-2df9-4864-9940-4ee11a4619ba" />
 
 
 
