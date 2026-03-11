@@ -38,7 +38,9 @@ op of task16.avl.java
 <img width="1020" height="800" alt="Screenshot 2026-03-06 142151" src="https://github.com/user-attachments/assets/01aa85db-2df9-4864-9940-4ee11a4619ba" />
 op task19.java 
 <img width="832" height="594" alt="Screenshot 2026-03-09 120119" src="https://github.com/user-attachments/assets/e6527e67-0564-470c-8fbd-b9ecb88c9b5e" />
+op of task 20
 
+<img width="797" height="403" alt="Screenshot 2026-03-11 160454" src="https://github.com/user-attachments/assets/d946a698-4a07-406d-96b3-7b13b658135d" />
 
 
 
